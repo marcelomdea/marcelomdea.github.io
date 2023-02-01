@@ -589,6 +589,17 @@
 .fa-github-square:before {
   content: "\f092";
 }
+
+.fa-whatsapp-square:before {
+  content: "\f232";
+}
+.fa-whatsapp:before {
+  content: "\f232";
+}
+.fa-whatsapp-alt:before {
+  content: "\f232";
+}
+
 .fa-upload:before {
   content: "\f093";
 }
